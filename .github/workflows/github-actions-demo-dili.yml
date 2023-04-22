@@ -10,4 +10,4 @@ jobs:
         with:
           node-version: '14'
       - run: pip install --upgrade pip
-      - run: pip -v
+      - run: pip -V
