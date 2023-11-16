@@ -1,6 +1,6 @@
 # Reinforcement-Learning-tutorial: Contextual Bandit Application in E-commerce
 
-This repository contains two Jupyter notebooks that implement the Thompson Sampling algorithm for a contextual bandit problem.
+This repository contains two Jupyter notebooks that implement the Thompson Sampling  and Upper Confidence Bound algorithms for a contextual bandit problem.
 
 ## Files
 
