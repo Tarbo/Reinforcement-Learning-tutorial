@@ -15,6 +15,7 @@ To use these notebooks, you will need a Python environment with the following pa
 - numpy
 - matplotlib
 - seaborn
+- pandas
 
 You can run each notebook in a Jupyter environment. The notebooks include code to train the agents and visualize the results. You can adjust the number of states, actions, and episodes to fit your specific problem.
 
